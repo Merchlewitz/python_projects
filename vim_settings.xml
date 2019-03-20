@@ -12,7 +12,7 @@
       <file name="/Python Console" timestamp="1552316008132">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/python_projects/years_old.py" timestamp="1553104579540">
+      <file name="$USER_HOME$/PycharmProjects/python_projects/years_old.py" timestamp="1553105846274">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="6" column="16" />
         <mark key="." line="6" column="16" />
@@ -53,6 +53,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
