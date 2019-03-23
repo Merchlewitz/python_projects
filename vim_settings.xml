@@ -6,17 +6,16 @@
       <file name="/start_script.py" timestamp="1553092726019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553024991560">
+      <file name="/Dummy.txt" timestamp="1553117593301">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1552316008132">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/python_projects/years_old.py" timestamp="1553112265328">
-        <mark key="a" line="63" column="11" />
-        <mark key="[" line="63" column="11" />
-        <mark key="]" line="63" column="11" />
-        <mark key="." line="63" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/python_projects/years_old.py" timestamp="1553308777044">
+        <mark key="a" line="58" column="11" />
+        <mark key="]" line="58" column="11" />
+        <mark key="." line="58" column="11" />
         <mark key="^" line="6" column="16" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWorld/app.py" timestamp="1552332823428">
@@ -26,7 +25,9 @@
         <mark key="." line="10" column="12" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="61" column="1" filename="$USER_HOME$/PycharmProjects/python_projects/years_old.py" />
+    </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>w</text>
@@ -34,13 +35,21 @@
       <register name="-" type="4">
         <text>w</text>
       </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxmcmFtZVw+</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxmcmFtZVw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxmcmFtZVw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxmcmFtZVw+</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
