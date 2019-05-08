@@ -12,13 +12,18 @@
       <file name="/Python Console" timestamp="1552316008132">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/python_projects/simple.py" timestamp="1554296756748" />
       <file name="$USER_HOME$/PycharmProjects/python_projects/years_old.py" timestamp="1553884828748">
         <mark key="a" line="76" column="11" />
         <mark key="[" line="56" column="32" />
         <mark key="]" line="76" column="11" />
         <mark key="." line="76" column="11" />
         <mark key="^" line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/tcoug_register/register.py" timestamp="1557324855016">
+        <mark key="'" line="2" column="82" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWorld/app.py" timestamp="1552332823428">
         <mark key="[" line="19" column="97" />
@@ -30,16 +35,17 @@
     <jumps>
       <jump line="61" column="1" filename="$USER_HOME$/PycharmProjects/python_projects/years_old.py" />
       <jump line="60" column="4" filename="$USER_HOME$/PycharmProjects/python_projects/years_old.py" />
+      <jump line="2" column="82" filename="$USER_HOME$/PycharmProjects/tcoug_register/register.py" />
     </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">Q3JlYXRlZCB3aW5kb3csIGFkZGVkIHZhcmlvdXMgdGV4dCBib3hlcyBhbmQgbGFiZWxzCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q3JlYXRlZCB3aW5kb3csIGFkZGVkIHZhcmlvdXMgdGV4dCBib3hlcyBhbmQgbGFiZWxzCg==</text>
+      <register name="&quot;" type="4">
+        <text>C:\Users\Ron\Desktop\Product List.xlsx</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>C:\Users\Ron\Desktop\Product List.xlsx</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludFw+</text>
@@ -73,6 +79,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
