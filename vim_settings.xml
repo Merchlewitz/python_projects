@@ -19,8 +19,8 @@
         <mark key="." line="76" column="11" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/tcoug_register/register.py" timestamp="1557860587086">
-        <mark key="'" line="98" column="9" />
+      <file name="$USER_HOME$/PycharmProjects/tcoug_register/register.py" timestamp="1557862404873">
+        <mark key="'" line="92" column="15" />
         <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWorld/app.py" timestamp="1552332823428">
@@ -37,6 +37,7 @@
       <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/tcoug_register/register.py" />
       <jump line="109" column="4" filename="$USER_HOME$/PycharmProjects/tcoug_register/register.py" />
       <jump line="101" column="9" filename="$USER_HOME$/PycharmProjects/tcoug_register/register.py" />
+      <jump line="94" column="15" filename="$USER_HOME$/PycharmProjects/tcoug_register/register.py" />
     </jumps>
     <registers>
       <register name="1" type="4">
