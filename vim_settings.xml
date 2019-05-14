@@ -19,10 +19,10 @@
         <mark key="." line="76" column="11" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/tcoug_register/register.py" timestamp="1557793037198">
-        <mark key="[" line="179" column="40" />
-        <mark key="]" line="179" column="40" />
-        <mark key="." line="179" column="40" />
+      <file name="$USER_HOME$/PycharmProjects/tcoug_register/register.py" timestamp="1557796798893">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWorld/app.py" timestamp="1552332823428">
         <mark key="[" line="19" column="97" />
@@ -42,13 +42,13 @@
         <text encoding="base64">ICphcmdzLCAqKmt3YXJncykKICAgIGxuYW1lLmdyaWQocm93PTEsIGNvbHVtbj0wKQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICphcmdzLCAqKmt3YXJncykKICAgIGxuYW1lLmdyaWQocm93PTEsIGNvbHVtbj0wKQ==</text>
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">Q3JlYXRlZCB3aW5kb3csIGFkZGVkIHZhcmlvdXMgdGV4dCBib3hlcyBhbmQgbGFiZWxzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.c</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb25lXD4=</text>
