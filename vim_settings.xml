@@ -9,7 +9,7 @@
       <file name="/Dummy.txt" timestamp="1553884989697">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1558043173878">
+      <file name="/Python Console" timestamp="1558544231738">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/python_projects/years_old.py" timestamp="1553884828748">
@@ -19,9 +19,11 @@
         <mark key="." line="76" column="11" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/tcoug_register/register.py" timestamp="1558537418879">
-        <mark key="'" line="96" column="4" />
-        <mark key="[" line="109" column="18" />
+      <file name="$USER_HOME$/PycharmProjects/tcoug_register/register.py" timestamp="1558544505127">
+        <mark key="'" line="168" column="4" />
+        <mark key="[" line="98" column="2" />
+        <mark key="]" line="98" column="2" />
+        <mark key="." line="98" column="2" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/HelloWorld/app.py" timestamp="1552332823428">
         <mark key="[" line="19" column="97" />
@@ -39,28 +41,29 @@
       <jump line="101" column="9" filename="$USER_HOME$/PycharmProjects/tcoug_register/register.py" />
       <jump line="94" column="15" filename="$USER_HOME$/PycharmProjects/tcoug_register/register.py" />
       <jump line="97" column="4" filename="$USER_HOME$/PycharmProjects/tcoug_register/register.py" />
+      <jump line="168" column="4" filename="$USER_HOME$/PycharmProjects/tcoug_register/register.py" />
     </jumps>
     <registers>
       <register name="1" type="4">
         <text encoding="base64">ICphcmdzLCAqKmt3YXJncykKICAgIGxuYW1lLmdyaWQocm93PTEsIGNvbHVtbj0wKQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>sel</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Q3JlYXRlZCB3aW5kb3csIGFkZGVkIHZhcmlvdXMgdGV4dCBib3hlcyBhbmQgbGFiZWxzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>sel</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxmXD4=</text>
+        <text encoding="base64">XDxoaWRlYnV0dG9uXD4=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
+      <last-search encoding="base64">XDxoaWRlYnV0dG9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxoaWRlYnV0dG9uXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -71,6 +74,7 @@
         <entry encoding="base64">XDxkb25lXD4=</entry>
         <entry encoding="base64">XDxpbWdcPg==</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry encoding="base64">XDxoaWRlYnV0dG9uXD4=</entry>
       </history-search>
       <history-cmd />
       <history-expr />
